@@ -1,2 +1,4 @@
 
-slack = -143
+slack = -234
+cells = 123
+net =12
